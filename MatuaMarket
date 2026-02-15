@@ -1,0 +1,10 @@
+pages/HomePage.tsx
+pages/ExplorePage.tsx
+pages/SellPage.tsx
+pages/FavoritesPage.tsx
+pages/ProfilePage.tsx
+pages/ProductDetailPage.tsx
+pages/AdminDashboard.tsx
+pages/LegalPage.tsx
+components/ProductCard.tsx
+services/gemini.ts
