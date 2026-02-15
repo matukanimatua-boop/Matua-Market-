@@ -2,5 +2,5 @@ index.html
 manifest.json
 sw.js
 types.ts
-constants.txs
+constants.tsx
 metadata.json
